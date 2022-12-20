@@ -20,7 +20,7 @@ programa
 		se (idade>=65){
 			escreva(" Apta para votar e voto facultativo")}
 
-		se (idade<=16){
+		senao  {
 			escreva( " A pessoa não está apta para votar")}
 
 			
